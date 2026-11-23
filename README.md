@@ -1,39 +1,28 @@
-# Hi there 👋 I'm Sunny Vishwakarma!
+# Hi, I'm Sunny Vishwakarma 👋
+### Software Engineer | Applied AI & Backend Systems
 
-## 👨‍💻 About Me
-I'm a passionate Python Developer with a strong focus on **Data Analysis**, **AI/ML**, and **Web Development**. With experience in **ETL pipelines**, **fraud detection models**, and **web scraping**, I love building solutions that combine cutting-edge technology with real-world applications.
-
-- 🔭 I’m currently working on: A **Fraud Detection Project** using **TensorFlow**, **Docker**, and **AWS**
-- 🌱 I’m learning: **Advanced SQL**, **Cloud Architecture**, and **LLM Fine-tuning**
-- 💬 Ask me about: **Python**, **ETL**, **AI models**, **Data Engineering**, **Web scraping**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sunny-vishwakarma-37108b319/) | sunny.work70@gmail.com
-- ⚡ Fun fact: I love mentoring students and have delivered guest lectures on AI and ML!
-
-## 🚀 Skills & Technologies
-- **Languages & Frameworks:** Python, SQL, Flask, React, HTML/CSS/JavaScript  
-- **Cloud & Tools:** Docker, AWS, Git, HuggingFace, FAISS  
-- **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib  
-- **AI/ML:** TensorFlow, scikit-learn, LangChain, HuggingFace Transformers  
-- **Web Scraping:** BeautifulSoup, Selenium, Scrapy  
-
-## 🌟 Inspired by Amazing Developers
-I’m constantly learning from incredible GitHub profiles like:  
-- [Rana Reehan Aslam](https://github.com/ranareehanaslam/ranareehanaslam)  
-- [Ritwik Raha](https://github.com/ritwikraha?tab=repositories)  
-- [Mel-Iza](https://github.com/Mel-iza/Mel-Iza)  
-
-These profiles inspire me to keep pushing boundaries and sharing my journey!
-
-## 📂 Featured Projects
-Here are a few highlights from my recent work:
-- **Fraud Detection App** – Scalable fraud detection system with real-time predictions using **TensorFlow** and **Docker**.
-- **AI Chat with PDF Model** – Built a local conversational app with **LangChain**, **HuggingFace**, and **FAISS** that improves responses based on previous interactions. [GitHub Repo](https://github.com/sunnyaiml/RAG_LLM_chat_model)
-- **Web Scraping Automation** – Automated data extraction from dynamic websites using **Selenium** and **BeautifulSoup**.
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnyaiml&show_icons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sk--tech-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sk-tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sunny--v--ebon.vercel.app-000000?style=flat&logo=vercel)](https://sunny-v-ebon.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Sunny.work70%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:Sunny.work70@gmail.com)
 
 ---
 
-> *Referred by top industry professionals who inspire me to keep learning and contributing!*
+### 🚀 What I Build
+- **Applied AI & LLM Systems:** Role-scoped tool calling (Claude & OpenAI), fail-closed data disclosure scanning, live evaluation harnesses (69% → 91% accuracy lift on 87-question benchmark).
+- **Production Cloud & Serverless:** 16-Lambda serverless invoice & billing pipelines (AWS SAM, EventBridge, DynamoDB conditional claims) with 0 duplicate charges.
+- **Enterprise Data Isolation:** 191 PostgreSQL Row-Level Security (RLS) policies enforcing multi-tenant isolation and consent boundaries.
+- **Real-Time Voice AI:** Twilio WebSockets + OpenAI Realtime pipelines achieving sub-800ms p95 caller-heard latency.
 
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, TypeScript, JavaScript, SQL, PHP
+- **Backend & Cloud:** Node.js, FastAPI, NestJS, AWS Lambda, SAM, EventBridge, S3, SES, Docker
+- **Databases:** PostgreSQL (RLS), Redis, DynamoDB, MySQL, Supabase, Prisma
+- **AI & Quality:** Claude, OpenAI Realtime/Tool Calling, LLM Evaluation, PyTest, PHPUnit, Jest
+
+---
+
+### 📌 Production Systems
+- **[Live Engineering Portfolio](https://sunny-v-ebon.vercel.app/):** Production case studies covering TiDonna (AI assistant & invoice engine), Power Dialer (real-time voice platform), and VitaSetu (healthcare platform).
+- **[LinkedIn Technical Case Study](https://www.linkedin.com/feed/update/urn:li:activity:7530602483191017473/):** Architectural deep-dive on preventing LLM data leaks and hardening evaluation pass rates.
